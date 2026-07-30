@@ -1,24 +1,62 @@
-<h1 align="center">Hi 👋, I'm Dope</h1>
-<h3 align="center">A passionate frontend and backend developer :)</h3>
+<h1 align="center">Dope</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dope-xd&label=Profile%20views&color=0e75b6&style=flat" alt="dope-xd" /> </p>
-
-- 🌱 I’m currently learning **Tensorflow, rust, ruby, pytorch**
-
-- 💬 Ask me about **discord.js/discord.py/react/js**
-
-- 📫 How to reach me **dopelabs01@gmail.com**
-
-- ⚡ Fun fact **I can code xd**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://discord.gg/AdrZHa8ex6" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="AdrZHa8ex6" height="30" width="40" /></a>
+<p align="center">
+  Developer. Software, applied AI, and embedded systems.
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/> </a> </p>
+<p align="center">
+  <a href="https://dopelabs.in">
+    <img src="https://img.shields.io/badge/dopelabs.in-111111?style=flat-square&logo=googlechrome&logoColor=white" alt="Website" />
+  </a>
+  <a href="mailto:pushkar@dopelabs.in">
+    <img src="https://img.shields.io/badge/Email-111111?style=flat-square&logo=maildotru&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://discord.gg/AdrZHa8ex6">
+    <img src="https://img.shields.io/badge/Discord-111111?style=flat-square&logo=discord&logoColor=white" alt="Discord" />
+  </a>
+</p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dope-xd&show_icons=true&theme=dark&locale=en&layout=compact" alt="dope-xd" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dope-xd&theme=dark" alt="dope-xd" /></p>
+I write code across web, ML and hardware. Most of it ships through
+**[DopeLabs](https://dopelabs.in)**, a small engineering studio I run out of Mumbai.
+
+## Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=py,ts,rust,cpp,swift,go&theme=dark" alt="Languages" />
+</p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=pytorch,opencv,fastapi,nextjs,react,nodejs,electron,tailwind&theme=dark" alt="Frameworks" />
+</p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=postgres,redis,supabase,docker,kubernetes,aws,raspberrypi,linux&theme=dark" alt="Infra" />
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Claude%20API-111111?style=flat-square" alt="Claude API" />
+  <img src="https://img.shields.io/badge/MCP-111111?style=flat-square" alt="MCP" />
+  <img src="https://img.shields.io/badge/vLLM-111111?style=flat-square" alt="vLLM" />
+  <img src="https://img.shields.io/badge/ROS-111111?style=flat-square" alt="ROS" />
+</p>
+
+## Now
+
+Robotics and embedded, mostly. Sensor capture pipelines, on-device vision, and the
+unglamorous work of getting a model to run on hardware sitting next to a machine.
+
+## Built
+
+| | | |
+|---|---|---|
+| **Pulse IDE** | Desktop IDE where a team of AI agents codes, debugs, tests and documents in one workspace | Electron, multi-agent, LLM tooling |
+| **Grid Recorder** | iOS app recording camera and sensors at 100 Hz with 5 ms sync, started and stopped by on-device hand detection | Swift, CoreMotion, on-device vision |
+| **Pramaan** | Android platform that builds a credit profile for gig workers from work history and bank statements | Android, secure auth, fintech |
+| **Voice-to-voice translator** | Speech recognition, translation and synthesis chained into one pipeline fast enough for live conversation | ASR, MT, TTS, realtime |
+| **Line inspection QC** | Computer vision that flags defects at line speed on commodity hardware next to the machines | OpenCV, edge deployment |
+
+Write-ups and results at [dopelabs.in](https://dopelabs.in).
+
+## Work with me
+
+Client work goes through the studio. A few lines about the problem is enough to start:
+**[dopelabs.in](https://dopelabs.in)** or **pushkar@dopelabs.in**.
